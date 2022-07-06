@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths-ignore:
-      - src.py
+      - README.md
 
 jobs:
   test:
